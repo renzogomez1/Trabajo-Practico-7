@@ -14,7 +14,7 @@ import pruebacolegio.Materia;
  * @author Asus
  */
 public class MenuPrincipal extends javax.swing.JFrame {
-    static HashSet <Alumno> alum = new HashSet<>();
+    HashSet <Alumno> alum = new HashSet<>();
     HashSet <Materia> mat = new HashSet<>();
     /**
      * Creates new form NewJFrame
